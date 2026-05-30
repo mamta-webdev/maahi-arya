@@ -1,6 +1,6 @@
 # Hi, I'm Mamta 👋
 
-💻 Frontend Developer | ReactJS  
+💻 Full-Stack Developer 
 🎓 BCA Student  
 🚀 Passionate about Building clean and interactive web interfaces  
 

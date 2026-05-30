@@ -1,6 +1,7 @@
 # Hi, I'm Mamta 👋
 
 💻 Full-Stack Developer 
+
 🎓 BCA Student  
 🚀 Passionate about Building clean and interactive web interfaces  
 

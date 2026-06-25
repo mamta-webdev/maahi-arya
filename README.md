@@ -8,16 +8,6 @@
 
 ---
 
-## Featured Projects
-
-🔹 AI-Powered Interview Report Generator
-
-🔹 DogStudio 3D Interactive Website
-
-🔹 Online Banking System
-
----
-
 
 ## 🔧 Tech Stack
 
@@ -35,7 +25,7 @@
 
 ## 📌 Projects
 
-📌 **GEN AI Interview Report Generator**
+📌 **AI-powered Interview Report Generator**
 
 * Built a full-stack AI-powered web application using React.js, Node.js, Express.js, and MongoDB.
 * Generates personalized interview reports based on resumes (or self-descriptions) and job descriptions.
@@ -64,11 +54,11 @@
 ---
 
 ## 🎯 Goals
-- To work as a Full-Stack Developer by working on real-world projects,
-- improving problem-solving skills, and building scalable web applications.
+- Build impactful full-stack applications
+- Strengthen problem-solving and system design skills
+- Contribute to real-world software projects
 
 ---
 
 ## 📫 Connect with Me
-- GitHub: https://github.com/mamta-webdev
 - Email: maahiarya625@gmail.com

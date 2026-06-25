@@ -18,27 +18,18 @@
 
 ---
 
+
 ## 🔧 Tech Stack
 
-💻 Frontend: 
+| Category    | Technologies                                |
+| ----------- | ------------------------------------------- |
+| Frontend    | HTML, CSS, JavaScript, ReactJS              |
+| Backend     | Node.js, Express.js                         |
+| Database    | MongoDB, Mongoose                           |
+| Programming | Java, JavaScript, C                         |
+| Tools       | Git, GitHub, Postman                        |
+| Libraries   | GSAP, Framer Motion, LocomotiveJS, SwiperJS |
 
-HTML | CSS | JavaScript | ReactJS  
-
-⚙️ Backend: 
-
-Node.js | Express.js  
-
-🗄️ Database: 
-
-MongoDB  
-
-☕ Programming: 
-
-Java  | JavaScript | C
-
-🛠️ Tools & Libraries:
-
-Git  |  GitHub  |  Postman | LocomotiveJS | SwiperJS | GSAP | Framer Motion
 
 ---
 

@@ -33,9 +33,11 @@ Node.js | Express.js
 MongoDB  
 
 ☕ Programming: 
+
 Java  | JavaScript | C
 
 🛠️ Tools & Libraries:
+
 Git | GitHub | Postman | LocomotiveJS | SwiperJS | GSAP | Framer Motion
 
 ---

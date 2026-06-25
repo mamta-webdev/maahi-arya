@@ -38,7 +38,7 @@ Java  | JavaScript | C
 
 🛠️ Tools & Libraries:
 
-Git | GitHub | Postman | LocomotiveJS | SwiperJS | GSAP | Framer Motion
+Git  |  GitHub  |  Postman | LocomotiveJS | SwiperJS | GSAP | Framer Motion
 
 ---
 
@@ -79,5 +79,5 @@ Git | GitHub | Postman | LocomotiveJS | SwiperJS | GSAP | Framer Motion
 ---
 
 ## 📫 Connect with Me
-- GitHub: https://github.com/maahi-arya
+- GitHub: https://github.com/mamta-webdev
 - Email: maahiarya625@gmail.com

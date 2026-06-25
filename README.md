@@ -2,7 +2,7 @@
 
 💻 Full-Stack Developer  
 
-🚀 Passionate about building scalable web applications and interactive user experiences. 
+🚀 Building scalable web applications with React.js, Node.js, Express.js, and MongoDB.
 
 🌱 Currently learning advanced backend development and system design.
 
@@ -21,16 +21,19 @@
 ## 🔧 Tech Stack
 
 💻 Frontend: 
+
 HTML | CSS | JavaScript | ReactJS  
 
 ⚙️ Backend: 
+
 Node.js | Express.js  
 
 🗄️ Database: 
+
 MongoDB  
 
 ☕ Programming: 
-Java  
+Java  | JavaScript | C
 
 🛠️ Tools & Libraries:
 Git | GitHub | Postman | LocomotiveJS | SwiperJS | GSAP | Framer Motion

@@ -34,24 +34,31 @@ LocomotiveJS | SwiperJS | Animation Libraries
 
 ## 📌 Projects
 
-📝 Full Stack Notes Management System  
-- MERN stack application with CRUD functionality  
-- Built RESTful APIs using Node.js & Express  
-- Integrated MongoDB and tested APIs using Postman . 
+📌 **GEN AI Interview Report Generator**
 
-🌐 3D Interactive Website  
-- Built using ReactJS and Three.js  
-- Implemented scroll-based animations using GSAP  
-- Optimized rendering performance for smooth experience .
+* Built a full-stack AI-powered web application using React.js, Node.js, Express.js, and MongoDB.
+* Generates personalized interview reports based on resumes (or self-descriptions) and job descriptions.
+* Integrated Groq AI to generate match scores, skill-gap analysis, learning roadmaps, and interview questions.
+* Implemented JWT authentication, protected routes, and report history management.
 
-📋 Kanban Board Application  
-- Task management system with create, update, delete features  
-- Focused on UI structure and state management
-- Implemented drag and drop functionality using JavaScript.
+🌐 **3D Interactive Website**
 
-💱 Currency Converter  
-- Integrated real-time exchange rate API  
-- Implemented async/await and error handling .
+* Developed an interactive 3D web application using React.js and Three.js.
+* Integrated GSAP and Framer Motion for smooth animations and user interactions.
+* Optimized responsiveness and rendering performance across devices.
+
+🏦 **Online Banking System**
+
+* Developed RESTful APIs using Node.js, Express.js, and MongoDB.
+* Implemented authentication, account management, and fund transfer features.
+* Tested and validated API endpoints using Postman.
+
+📋 **Kanban Board Application**
+
+* Built a task management system using HTML, CSS, and JavaScript.
+* Implemented drag-and-drop functionality and dynamic task updates.
+* Designed an intuitive interface for organizing workflow stages.
+
 
 ---
 

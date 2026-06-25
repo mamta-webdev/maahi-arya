@@ -1,15 +1,20 @@
 # Hi, I'm Mamta 👋
 
-💻 Full-Stack Developer 
+💻 Full-Stack Developer  
 
-🎓 BCA Student  
-🚀 Passionate about Building clean and interactive web interfaces  
+🚀 Passionate about building scalable web applications and interactive user experiences. 
+
+🌱 Currently learning advanced backend development and system design.
 
 ---
 
-## 🌱 Currently Learning
-- Advanced ReactJS
-- Advance Backend development & API Design
+## Featured Projects
+
+🔹 AI-Powered Interview Report Generator
+
+🔹 DogStudio 3D Interactive Website
+
+🔹 Online Banking System
 
 ---
 
@@ -27,8 +32,8 @@ MongoDB
 ☕ Programming: 
 Java  
 
-🎨 Libraries & Tools: 
-LocomotiveJS | SwiperJS | Animation Libraries  
+🛠️ Tools & Libraries:
+Git | GitHub | Postman | LocomotiveJS | SwiperJS | GSAP | Framer Motion
 
 ---
 
@@ -70,3 +75,4 @@ LocomotiveJS | SwiperJS | Animation Libraries
 
 ## 📫 Connect with Me
 - GitHub: https://github.com/maahi-arya
+- Email: maahiarya625@gmail.com
